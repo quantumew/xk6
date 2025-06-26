@@ -103,7 +103,7 @@ A [stable version] of the Go toolkit must be installed.
 
 The xk6 tool can also be installed using the `go install` command.
 
-    go install quantumew/xk6@latest
+    go install github.com/quantumew/xk6@latest
 
 This will install the `xk6` binary in `$GOPATH/bin` directory.
 

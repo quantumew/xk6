@@ -4,7 +4,7 @@
 // If you want to use `go run`, use `go run quantumew/xk6@latest` instead.
 package main
 
-import "quantumew/xk6/internal/cmd"
+import "github.com/quantumew/xk6/internal/cmd"
 
 func main() {
 	cmd.Execute()

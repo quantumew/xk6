@@ -1,4 +1,4 @@
-module quantumew/xk6
+module github.com/quantumew/xk6
 
 go 1.24.0
 

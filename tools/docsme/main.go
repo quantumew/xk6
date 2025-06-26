@@ -3,7 +3,7 @@
 package main
 
 import (
-	"quantumew/xk6/internal/cmd"
+	"github.com/quantumew/xk6/internal/cmd"
 
 	"github.com/spf13/cobra"
 	"github.com/szkiba/docsme"

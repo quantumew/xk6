@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"quantumew/xk6/internal/lint"
+	"github.com/quantumew/xk6/internal/lint"
 
 	"github.com/fatih/color"
 	"github.com/mattn/go-colorable"

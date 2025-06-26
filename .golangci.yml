@@ -38,7 +38,7 @@ linters:
             - github.com/chainguard-dev/git-urls
             - github.com/charmbracelet/huh
             - github.com/quantumew/k6foundry
-            - quantumew/xk6
+            - github.com/quantumew/xk6
   exclusions:
     paths:
       # adopted from fixuid source: https://github.com/boxboat/fixuid

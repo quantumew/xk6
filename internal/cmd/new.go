@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"path"
 
-	"quantumew/xk6/internal/scaffold"
+	"github.com/quantumew/xk6/internal/scaffold"
 
 	"github.com/spf13/cobra"
 )
