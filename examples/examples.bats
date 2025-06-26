@@ -45,5 +45,5 @@ setup() {
   cd $BASE_DIR
   run bash $BATS_TEST_DIRNAME/lint.sh
   [ $status -eq 0 ]
-  echo "$output" | grep -q "found \`go.k6.io/xk6\` as go module"
+  echo "$output" | grep -q "found \`quantumew/xk6\` as go module"
 }

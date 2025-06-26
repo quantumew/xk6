@@ -8,7 +8,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/grafana/k6foundry"
+	"github.com/quantumew/k6foundry"
 	"github.com/spf13/cobra"
 	"golang.org/x/mod/modfile"
 )

@@ -6,8 +6,9 @@ import (
 	"log/slog"
 	"path"
 
+	"quantumew/xk6/internal/scaffold"
+
 	"github.com/spf13/cobra"
-	"go.k6.io/xk6/internal/scaffold"
 )
 
 //go:embed help/new.md

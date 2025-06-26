@@ -1,4 +1,4 @@
-module go.k6.io/xk6
+module quantumew/xk6
 
 go 1.24.0
 
@@ -8,7 +8,6 @@ require (
 	github.com/fatih/color v1.18.0
 	github.com/go-enry/go-license-detector/v4 v4.3.1
 	github.com/go-git/go-git/v5 v5.16.2
-	github.com/grafana/k6foundry v0.4.6
 	github.com/lmittmann/tint v1.1.2
 	github.com/mattn/go-colorable v0.1.14
 	github.com/mattn/go-isatty v0.0.20
@@ -39,6 +38,7 @@ require (
 	github.com/montanaflynn/stats v0.6.6 // indirect
 	github.com/pjbgf/sha1cd v0.3.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/quantumew/k6foundry v0.0.0-20250626125053-e4543065b411 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shogo82148/go-shuffle v1.0.1 // indirect

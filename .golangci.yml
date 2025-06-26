@@ -37,8 +37,8 @@ linters:
             - github.com/szkiba/efa
             - github.com/chainguard-dev/git-urls
             - github.com/charmbracelet/huh
-            - github.com/grafana/k6foundry
-            - go.k6.io/xk6
+            - github.com/quantumew/k6foundry
+            - quantumew/xk6
   exclusions:
     paths:
       # adopted from fixuid source: https://github.com/boxboat/fixuid

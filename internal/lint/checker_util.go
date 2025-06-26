@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"runtime"
 
-	"github.com/grafana/k6foundry"
+	"github.com/quantumew/k6foundry"
 )
 
 func build(ctx context.Context, module string, dir string) (string, error) {

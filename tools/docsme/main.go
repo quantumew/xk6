@@ -3,9 +3,10 @@
 package main
 
 import (
+	"quantumew/xk6/internal/cmd"
+
 	"github.com/spf13/cobra"
 	"github.com/szkiba/docsme"
-	"go.k6.io/xk6/internal/cmd"
 )
 
 func main() {

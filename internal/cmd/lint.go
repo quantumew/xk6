@@ -9,10 +9,11 @@ import (
 	"io"
 	"os"
 
+	"quantumew/xk6/internal/lint"
+
 	"github.com/fatih/color"
 	"github.com/mattn/go-colorable"
 	"github.com/spf13/cobra"
-	"go.k6.io/xk6/internal/lint"
 )
 
 var (

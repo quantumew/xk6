@@ -5,8 +5,9 @@ import (
 	_ "embed"
 	"log/slog"
 
+	"quantumew/xk6/internal/scaffold"
+
 	"github.com/spf13/cobra"
-	"go.k6.io/xk6/internal/scaffold"
 )
 
 //go:embed help/adjust.md

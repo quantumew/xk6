@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/grafana/k6foundry"
+	"github.com/quantumew/k6foundry"
 	"github.com/spf13/pflag"
 	"github.com/szkiba/efa"
 )
